@@ -137,6 +137,7 @@ main {
 
 .background__copy {
 	opacity: 0.3;
+	transform: translate3d(0,0,0);
 }
 
 /* Header */
